@@ -1,6 +1,6 @@
 # Hello, I'm Ben
 <a href="https://www.linkedin.com/in/ben-werner1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/PhotonFlash" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-003366?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/ZephyrEx" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-003366?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 
 I am a recent B.S. Cybersecurity and Information Assurance graduate with a passion for technology and a dedication to learning.
 
@@ -11,19 +11,22 @@ My journey through my degree has fostered a strong foundational understanding of
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Placeholder        | <a href="https://google.com">Placeholder</a>|
-| Placeholder        | <a href="https://google.com">Placeholder</a>|
-| Placeholder        | Placeholder|
-| Placeholder        | Placeholder|
-| Placeholder        | Placeholder|
-| Placeholder        | Placeholder|
+| Ethical Hacking & Technical Writing        | <a href="https://github.com/Zephyr-C2/TryHackMe-Writeups">TryHackMe Writeups</a>|
+| Vulnerability Scanning        | <a href="https://github.com/Zephyr-C2/Vulnerability-Scanner-Project">Vulnerability Scanner</a>|
 
 ## Tools
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-E4002B?&style=for-the-badge&logo=snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-333333?&style=for-the-badge&logo=semantic-web&logoColor=white" />
+</div>
+
+### Pentesting
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-DE703C?&style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-1F1F2E?&style=for-the-badge" />
 </div>
 
 ### Endpoint
@@ -34,7 +37,6 @@ My journey through my degree has fostered a strong foundational understanding of
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-FF6F00?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -56,5 +58,5 @@ My journey through my degree has fostered a strong foundational understanding of
 </div>
 
 ## Projects
-- Placeholder
-- Placeholder
+- <a href="https://github.com/Zephyr-C2/TryHackMe-Writeups">TryHackMe Writeups</a>
+- <a href="https://github.com/Zephyr-C2/Vulnerability-Scanner-Project">Vulnerability Scanner</a>
