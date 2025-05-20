@@ -13,14 +13,16 @@ My journey through my degree has fostered a strong foundational understanding of
 |-----------------------------------------------|----------------------------|
 | Ethical Hacking & Technical Writing        | <a href="https://github.com/Zephyr-C2/TryHackMe-Writeups">TryHackMe Writeups</a>|
 | Vulnerability Scanning        | <a href="https://github.com/Zephyr-C2/Vulnerability-Scanner-Project">Vulnerability Scanner</a>|
+| Network Security              | <a href="https://github.com/Zephyr-C2/Homelab-SSL-Certs">Homelab-SSL-Certs</a>| 
 
 ## Tools
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenVAS-26A269?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Snort-E4002B?&style=for-the-badge&logo=snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-333333?&style=for-the-badge&logo=semantic-web&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nginx_Proxy_Manager-009639?&style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
 
 ### Pentesting
@@ -60,3 +62,4 @@ My journey through my degree has fostered a strong foundational understanding of
 ## Projects
 - <a href="https://github.com/Zephyr-C2/TryHackMe-Writeups">TryHackMe Writeups</a>
 - <a href="https://github.com/Zephyr-C2/Vulnerability-Scanner-Project">Vulnerability Scanner</a>
+- <a href="https://github.com/Zephyr-C2/Homelab-SSL-Certs">Homelab-SSL-Certs</a>
