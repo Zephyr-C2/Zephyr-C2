@@ -53,9 +53,9 @@ My journey through my degree has fostered a strong foundational understanding of
 </div>
 
 <div style="margin-top:10px;">
-  <img src="https://img.shields.io/badge/-Associate%20of%20(ISC)²-00358E?&style=for-the-badge&logo=ISC2&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux%20Essentials-3333cc?&style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SSCP-00358E?&style=for-the-badge&logo=ISC2&logoColor=white" />
   <img src="https://img.shields.io/badge/-SAL1-003366?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux%20Essentials-3333cc?&style=for-the-badge&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-ITIL%20Foundations-5C5C5C?&style=for-the-badge&logo=itil&logoColor=white" />
 </div>
 
