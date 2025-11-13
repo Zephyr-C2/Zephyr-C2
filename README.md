@@ -6,7 +6,7 @@ I am a recent B.S. Cybersecurity and Information Assurance graduate with a passi
 
 ## Objective
 
-My journey through my degree has fostered a strong foundational understanding of cybersecurity, and I am now eager to develop technical skills, and looking to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey through my degree has fostered a strong foundational understanding of cybersecurity, and I am now eager to develop technical skills, and looking to build experience in an IT environment. Currently I'm learning every day by completing labs on platforms such as TryHackMe/Hack the Box, as well as regularly participating in CTF events. I'm studying for the OSCP and hope to become a penetration tester one day. 
 
 ## Skills
 | Skill                                         | Associated Project         |
@@ -55,6 +55,7 @@ My journey through my degree has fostered a strong foundational understanding of
 <div style="margin-top:10px;">
   <img src="https://img.shields.io/badge/-SSCP-00358E?&style=for-the-badge&logo=ISC2&logoColor=white" />
   <img src="https://img.shields.io/badge/-SAL1-003366?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PT1-003366?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux%20Essentials-3333cc?&style=for-the-badge&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-ITIL%20Foundations-5C5C5C?&style=for-the-badge&logo=itil&logoColor=white" />
 </div>
