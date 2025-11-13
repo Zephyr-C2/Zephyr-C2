@@ -28,6 +28,7 @@ My journey through my degree has fostered a strong foundational understanding of
 ### Pentesting
 <div>
     <img src="https://img.shields.io/badge/-Burp%20Suite-DE703C?&style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Caido-5A67D8?&style=for-the-badge&logo=caido&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-1F1F2E?&style=for-the-badge" />
 </div>
 
